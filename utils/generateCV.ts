@@ -19,7 +19,7 @@ export const generateCV = (language: "en" | "ar" | "de" | "fr" = "en") => {
   doc.setFontSize(10)
   doc.setTextColor(0, 0, 0)
   doc.text("Cairo, Egypt | +20 102 692 4240 | abdulrahmanneam@gmail.com", 20, 55)
-  doc.text("LinkedIn: linkedin.com/in/abdoneam | GitHub: github.com/abdulrahmanneam", 20, 62)
+  doc.text("LinkedIn: linkedin.com/in/abdoneam | GitHub: https://github.com/abdulrahmanYneam7O2023?tab=repositories", 20, 62)
 
   // Line separator
   doc.setLineWidth(0.5)
@@ -36,11 +36,13 @@ export const generateCV = (language: "en" | "ar" | "de" | "fr" = "en") => {
 
   doc.setFontSize(10)
   doc.setTextColor(0, 0, 0)
-  const objectiveText = `As a Fullstack Developer with over a year of hands-on experience, I excel at solving complex coding
-challenges using .Net and delivering innovative, user-focused solutions. My journey includes several successful
-projects, yet I remain driven to continuously learn and deepen my technical expertise. I'm known for my creative
-problem-solving skills, strong attention to detail, and a passion for building efficient and scalable applications.
-Eager to grow, I actively seek opportunities to expand my knowledge and contribute to impactful projects.`
+  const objectiveText = `As a Fullstack Developer with over two years of hands-on experience, 
+  I specialize in delivering innovative, user-focused solutions across the entire development stack. With three years of dedicated experience working with .NET as a Backend Developer, 
+  I’ve built a strong foundation in crafting robust, scalable applications. Throughout my journey,
+   I’ve successfully led and contributed to several impactful projects. 
+  I’m recognized for my creative problem-solving abilities, meticulous attention to detail, and a passion for continuous learning. Always eager to grow, 
+  I actively pursue opportunities to deepen my expertise and drive meaningful contributions to forward-thinking teams.
+`
 
   const splitObjective = doc.splitTextToSize(objectiveText, 170)
   doc.text(splitObjective, 20, yPosition)
@@ -63,7 +65,7 @@ Eager to grow, I actively seek opportunities to expand my knowledge and contribu
   yPosition += 7
 
   doc.setFont("helvetica", "italic")
-  doc.text("ERP Consultant & Technical Support", 20, yPosition)
+  doc.text("ERP Developer & Technical Support", 20, yPosition)
   yPosition += 10
 
   doc.setFont("helvetica", "normal")

@@ -47,7 +47,7 @@ const translations = {
       greeting: "Hi, I'm",
       role: "Full Stack Developer",
       description:
-        "I am a .NET developer with 2+ years of experience delivering high-quality software solutions. My journey spans freelance projects, teamwork, and corporate roles, showcasing expertise in ASP.NET Core, Entity Framework, and SQL Server.",
+        "As a Fullstack Developer with over two years of hands-on experience, I specialize in delivering innovative, user-focused solutions across the entire development stack. With three years of dedicated experience working with .NET as a Backend Developer, I’ve built a strong foundation in crafting robust, scalable applications. Throughout my journey, I’ve successfully led and contributed to several impactful projects. I’m recognized for my creative problem-solving abilities, meticulous attention to detail, and a passion for continuous learning. Always eager to grow, I actively pursue opportunities to deepen my expertise and drive meaningful contributions to forward-thinking teams.",
       hireMe: "Hire Me",
       downloadCV: "Download CV",
     },
@@ -73,7 +73,7 @@ const translations = {
         },
         {
           company: "Ewoks IT Solutions",
-          position: "ERP Consultant & Technical Support",
+          position: "ERP Developer & Technical Support",
           period: "Nov 2023 – October 2024",
           description:
             "Specialized in streamlining business processes through ERP systems implementation and optimization. Analyzed organizational needs and configured ERP solutions to enhance operational efficiency.",
@@ -98,9 +98,9 @@ const translations = {
           description:
             "The Full Stack Developer .NET Scholarship by ITI (affiliated with Egypt's MCIT) is a prestigious 4-month program designed to bridge the gap between academia and industry. It offers intensive training in .NET full-stack development, soft skills, and real-world projects.",
           achievements: [
-            "Team Leader for graduation project SolveSmart_AI",
-            "Recognized as Top 10 student in the cohort",
-            "Led team of 4 developers in AI-powered project development",
+            "An AI-powered program named SolveSmart_AI",
+            "The project was ranked as one of the top graduation projects in the scholarship",
+            "Led a team of 4 developers in building the SolveSmart_AI project",
           ],
           certificate: "/images/iti-certificate.png",
         },
@@ -192,7 +192,7 @@ const translations = {
       greeting: "مرحباً، أنا",
       role: "مطور ويب متكامل",
       description:
-        "أنا مطور .NET مع أكثر من سنتين من الخبرة في تقديم حلول برمجية عالية الجودة. رحلتي تشمل مشاريع العمل الحر والعمل الجماعي والأدوار المؤسسية.",
+        "بصفتي مطوّر Full Stack بخبرة عملية تزيد عن عامين، أمتلك قدرة عالية على تقديم حلول مبتكرة وموجهة للمستخدم عبر جميع طبقات التطوير. لدي ثلاث سنوات من الخبرة المتخصصة في العمل على جانب الـ Back-End باستخدام .NET، مما مكّنني من بناء تطبيقات قوية وقابلة للتوسّع. خلال مسيرتي، شاركت في تنفيذ عدد من المشاريع الناجحة والمؤثرة. أنا معروف بقدرتي على حل المشكلات بطريقة إبداعية، واهتمامي الشديد بالتفاصيل، وشغفي بالتعلم المستمر. أسعى دائماً لتطوير مهاراتي والمساهمة في مشاريع ذات تأثير حقيقي ضمن فرق عمل طموحة.",
       hireMe: "وظفني",
       downloadCV: "تحميل السيرة الذاتية",
     },
@@ -218,7 +218,7 @@ const translations = {
         },
         {
           company: "Ewoks IT Solutions",
-          position: "استشاري ERP ودعم تقني",
+          position: "مبرمج ERP ودعم تقني",
           period: "نوفمبر 2023 – أكتوبر 2024",
           description: "متخصص في تبسيط العمليات التجارية من خلال تنفيذ وتحسين أنظمة تخطيط موارد المؤسسات.",
         },
@@ -241,9 +241,9 @@ const translations = {
           description:
             "منحة مطور الويب المتكامل .NET من ITI (التابع لوزارة الاتصالات وتكنولوجيا المعلومات المصرية) هو برنامج مرموق لمدة 4 أشهر مصمم لسد الفجوة بين الأكاديمية والصناعة.",
           achievements: [
-            "قائد فريق لمشروع التخرج SolveSmart_AI",
-            "تم تكريمي كأحد أفضل 10 طلاب في الدفعة",
-            "قدت فريق من 4 مطورين في تطوير مشروع مدعوم بالذكاء الاصطناعي",
+            "  برنامج مدعوم بالذكاء الاصطناعي   SolveSmart_AI ",
+            "صنف المشروع كا أحدف أفضل مشاريع التخرج في المنحة",
+            "قدت فريق من 4 مطورين في تطوير مشروع  SolveSmart_AI",
           ],
           certificate: "/images/iti-certificate.png",
         },
@@ -383,9 +383,9 @@ const translations = {
           description:
             "Das Full Stack Developer .NET Stipendium von ITI ist ein prestigeträchtiges 4-monatiges Programm, das die Lücke zwischen Akademie und Industrie schließen soll.",
           achievements: [
-            "Teamleiter für Abschlussprojekt SolveSmart_AI",
-            "Als Top 10 Student der Kohorte anerkannt",
-            "Leitete Team von 4 Entwicklern in KI-gestützter Projektentwicklung",
+            "Ein KI-gestütztes Programm namens SolveSmart_AI",
+            "Das Projekt wurde als eines der besten Abschlussprojekte im Stipendium ausgezeichnet",
+            "Leitete ein Team von 4 Entwicklern bei der Entwicklung des SolveSmart_AI-Projekts",
           ],
           certificate: "/images/iti-certificate.png",
         },
@@ -527,9 +527,9 @@ const translations = {
           description:
             "La bourse Développeur Full Stack .NET d'ITI est un programme prestigieux de 4 mois conçu pour combler l'écart entre l'académie et l'industrie.",
           achievements: [
-            "Chef d'équipe pour le projet de fin d'études SolveSmart_AI",
-            "Reconnu comme étudiant Top 10 de la cohorte",
-            "A dirigé une équipe de 4 développeurs dans le développement de projet alimenté par l'IA",
+            "Un programme alimenté par l’intelligence artificielle nommé SolveSmart_AI",
+            "Le projet a été classé parmi les meilleurs projets de fin d’études dans la bourse",
+            "Dirigé une équipe de 4 développeurs dans le développement du projet SolveSmart_AI",
           ],
           certificate: "/images/iti-certificate.png",
         },
@@ -918,7 +918,7 @@ export default function Portfolio() {
                 transition={{ delay: 1, duration: 0.8 }}
               >
                 {[
-                  { icon: Github, href: "https://github.com/abdulrahmanneam" },
+                  { icon: Github, href: "https://github.com/abdulrahmanYneam7O2023?tab=repositories" },
                   { icon: Linkedin, href: "https://www.linkedin.com/in/abdoneam" },
                   { icon: Instagram, href: "https://www.instagram.com/abdo.neam/" },
                   { icon: Twitter, href: "#" },
@@ -1018,7 +1018,7 @@ export default function Portfolio() {
                     { icon: Code, label: "Projects", value: "15+" },
                     { icon: Calendar, label: "Experience", value: "2+ Years" },
                     { icon: Building, label: "Companies", value: "3" },
-                    { icon: Globe2, label: "Languages", value: "4" },
+                    { icon: Globe2, label: "Languages", value: "2" },
                   ].map((stat, index) => (
                     <motion.div
                       key={index}
@@ -1201,23 +1201,25 @@ export default function Portfolio() {
                         Leadership Excellence
                       </h3>
                       <p className={`text-lg leading-relaxed mb-6 ${isDark ? "text-gray-200" : "text-gray-700"}`}>
-                        Recognized for outstanding leadership and exceptional contributions as Team Leader in the
-                        Digital Egypt Pioneers Program. This achievement reflects my ability to inspire, coordinate, and
-                        drive teams toward successful project completion.
+                       Recognized for outstanding leadership and exceptional contributions as a Team Leader in the Digital Egypt Pioneers Program. Under my leadership, 
+                       our team was honored with the award for the best .NET project among all cohorts of the first phase. 
+                       This recognition was a result of my team's remarkable talent, dedication, and collaborative effort. 
+                       Thanks to their outstanding performance,
+                        I was selected as one of the top ten Team Leaders across the entire program.
                       </p>
                       <div className="flex items-center space-x-4">
                         <Badge variant="outline" className="bg-yellow-100 text-yellow-800 border-yellow-300">
-                          Team Leader
+                          Ranked #1 .NET Project
                         </Badge>
                         <Badge variant="outline" className="bg-green-100 text-green-800 border-green-300">
-                          Top 10 Student
+                          Top 10 Team Leader 
                         </Badge>
                       </div>
                     </div>
                     <div className="flex justify-center">
                       <div className="relative">
                         <img
-                          src="/images/leadership-certificate.png"
+                          src="/images/depi-leadership-certificate.png"
                           alt="Leadership Certificate"
                           className="w-full max-w-sm rounded-lg shadow-xl"
                         />
@@ -1461,7 +1463,7 @@ export default function Portfolio() {
               viewport={{ once: true }}
             >
               {[
-                { icon: Github, href: "https://github.com/abdulrahmanneam" },
+                { icon: Github, href: "https://github.com/abdulrahmanYneam7O2023?tab=repositories" },
                 { icon: Linkedin, href: "https://www.linkedin.com/in/abdoneam" },
                 { icon: Instagram, href: "https://www.instagram.com/abdo.neam/" },
                 { icon: Twitter, href: "#" },

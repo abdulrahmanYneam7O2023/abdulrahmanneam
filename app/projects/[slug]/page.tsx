@@ -75,7 +75,7 @@ const projectsData = {
       "/placeholder.svg?height=400&width=600",
     ],
     links: {
-      github: "https://github.com/abdulrahmanneam",
+      github: "https://github.com/abdulrahmanYneam7O2023?tab=repositories",
       linkedin: "https://www.linkedin.com/in/abdoneam",
       demo: "#",
     },
