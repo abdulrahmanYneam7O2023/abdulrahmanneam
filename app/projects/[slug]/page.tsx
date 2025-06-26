@@ -35,7 +35,7 @@ const projectsData = {
     longDescription:
       "SolveSmart_AI represents a breakthrough in educational technology, combining the power of artificial intelligence with programming education. The system uses advanced AI algorithms to understand user requirements and generate contextually relevant programming challenges. What sets it apart is its dual AI approach - not only does it create problems, but it also provides intelligent solutions with detailed explanations.",
     category: "Graduation Project - ITI",
-    duration: "6 months",
+    duration: "4 months",
     team: "4 developers",
     role: "Full Stack Developer & AI Integration Specialist",
     status: "Completed",
@@ -88,8 +88,8 @@ const projectsData = {
     longDescription:
       "The AZ International website serves as a digital gateway for one of the leading engineering consulting firms. The platform showcases the company's extensive portfolio of services while providing a sophisticated certification verification system. This project demonstrates the perfect blend of corporate presentation and functional utility, offering visitors both informational content and practical tools.",
     category: "Freelance Project",
-    duration: "4 months",
-    team: "Solo Developer",
+    duration: "12 months",
+    team: "Tow Developer",
     role: "Full Stack Developer",
     status: "In Progress",
     year: "2025",
@@ -142,9 +142,9 @@ const projectsData = {
     longDescription:
       "Qayimli represents a modern approach to product evaluation and community-driven reviews. The platform empowers users to share their experiences with products while providing businesses with valuable feedback mechanisms. Built with scalability in mind, the system handles thousands of reviews while maintaining performance and data integrity.",
     category: "Graduation Project - DEBI",
-    duration: "5 months",
-    team: "3 developers",
-    role: "Backend Lead Developer",
+    duration: "6 months",
+    team: "5 developers",
+    role: "Backend Developer",
     status: "Completed",
     year: "2024",
     technologies: {
@@ -179,7 +179,10 @@ const projectsData = {
       "/images/qayimli-logo.png",
       "/images/qayimli-dashboard.png",
       "/images/qayimli-loading.png",
-      "/placeholder.svg?height=400&width=600",
+      "/images/q2.jpg",
+      "/images/q3.jpg",
+      "/images/q4.jpg",
+     
     ],
     links: {
       github: "https://github.com/abdulrahmanneam",

@@ -43,8 +43,8 @@ const experienceData = {
     location: "Remote, Egypt",
     type: "Freelance",
     status: "Current",
-    duration: "9+ months",
-    teamSize: "Solo Developer",
+    duration: "12 months",
+    teamSize: "Tow Developers",
     description:
       "Leading the development of a comprehensive digital platform for AZ International, a premier engineering consulting firm. This role involves creating innovative solutions for certificate verification, participant management, and corporate presentation systems.",
     longDescription:
@@ -106,7 +106,7 @@ const experienceData = {
   },
   "ewoks-it": {
     company: "Ewoks IT Solutions",
-    position: "ERP Consultant & Technical Support",
+    position: "ERP Developer & Technical Support",
     period: "Nov 2023 – October 2024",
     location: "Cairo, Egypt",
     type: "Full-time",
@@ -142,7 +142,7 @@ const experienceData = {
       integration: ["API Integration", "Data Migration Tools", "Reporting Systems"],
     },
     skills: [
-      { name: "ERP Implementation", level: 88 },
+      { name: "ERP Developer", level: 88 },
       { name: "Business Analysis", level: 85 },
       { name: "Client Relations", level: 90 },
       { name: "Technical Support", level: 92 },
@@ -501,7 +501,7 @@ export default function ExperienceDetail() {
                 <img
                   src={
                     slug === "az-international"
-                      ? "/images/az-international-cover.png"
+                      ? "/images/az.jpg"
                       : slug === "ewoks-it"
                         ? "/images/eworks-logo-full.png"
                         : "/images/beta-integration-logo-full.png"
