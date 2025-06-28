@@ -951,7 +951,7 @@ export default function Portfolio() {
                 className="relative"
               >
                 <div className="w-80 h-80 rounded-full overflow-hidden border-4 border-blue-600 shadow-2xl">
-                  <img src="/images/profile.jpg" alt="Abdulrahman Neam" className="w-full h-full object-cover" />
+                  <img src="/images/1743755703561.jpg" alt="Abdulrahman Neam" className="w-full h-full object-cover" />
                 </div>
                 <motion.div
                   animate={{ rotate: 360 }}
